@@ -1,2 +1,2 @@
 # Free-Recipes
-SPA website for adding, deleting and managing recipes(firebase as backend)
+SPA website built in angular for adding, deleting and managing recipes(firebase as backend)
